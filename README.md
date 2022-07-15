@@ -26,3 +26,7 @@ arr: [U, 3, R, h, c, m, t, Q, Y, X, N, z, T, k, Z, U]
 ```
 
 Base64 encode result is `U3RhcmtQYXNzTkZU` after decode is "StarkPassNFT"
+
+try on voyager
+
+https://goerli.voyager.online/contract/0x0203505221c4bb20cf5670c294e3a111e4316956ea675330ee1327d43c552d86#readContract
