@@ -1,12 +1,12 @@
 # Starkpass Cairo Contract
 
-StarkPass contract: > contracts > token > ERC721 > ERC721Starkpass.cairo
+`contracts > token > ERC721 > ERC721Starkpass.cairo`
 
 # String test
 
-test "string" felt split > base64 > concatenate > convert to felt array > return as view
+`contracts > token > ERC721 > string_test.cairo`
 
-contracts > token > ERC721 > string_test.cairo
+test "string" felt split > base64 > concatenate > convert to felt array > return as view
 
 example input: StarkPassNFT
 
